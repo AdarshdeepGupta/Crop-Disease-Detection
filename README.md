@@ -29,16 +29,6 @@ The **Plant Disease Detection Project** uses machine learning and deep learning 
 3. The prediction result will display the disease name and associated details (if available).
 
 
-## Contributions
-Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
-
-### To Contribute:
-1. Fork the repository
-2. Create a new branch
-3. Make changes and commit them
-4. Submit a pull request
-
-
 ## Acknowledgments
 - **TensorFlow**, **Keras**, and **OpenCV** for providing the libraries to build and train models.
 - **new-plant-diseases-dataset**
